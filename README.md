@@ -11,7 +11,8 @@
 <br>
 이러한 상황에서 문해력 향상에 도움을 주기 위해 교육 앱인 "너 문해 너무해"를 개발했습니다.
 
-- 안드로이드 apk 파일 및 소스코드 👉 https://github.com/gdsckoreahackathon2022/09_WeWon/releases/tag/WeWon
+- 안드로이드 apk 파일 & 백엔드 소스코드 👉 https://github.com/gdsckoreahackathon2022/09_WeWon/releases/tag/WeWon
+- 안드로이드 소스코드 👉 https://github.com/comye1/WinterHack
 # 기능 설명
 
 ## 메인 화면
