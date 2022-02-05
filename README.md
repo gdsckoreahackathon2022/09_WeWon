@@ -97,7 +97,12 @@
 <img src = "https://images.velog.io/images/ryool/post/a9445fdc-5d74-4934-83d3-e5c9288adc5b/image.png" width = 300 height = 600>
 
 ## 저장한 단어
-작성중 
+
+네비게이션 드로어에서 저장한 단어를 누르면 <br>
+작품을 읽다가 스크랩한 단어와 단어가 속한 문장을 볼 수 있습니다. <br>
+
+<img src = "https://user-images.githubusercontent.com/66999675/152623002-d929e567-bf55-42f2-b614-ed62aefad20d.png" width = 300 height = 600>
+<br>
 
 ## 어휘 모음
 
