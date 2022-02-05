@@ -83,9 +83,9 @@
 ## 저장한 글
 
 네비게이션 드로어에서 저장한 글을 누르면 <br>
-메인 화면에 있던 시, 소설, 수필 중 스크랩한 글을 볼 수 있습니다.
+메인 화면에 있던 시, 소설, 수필 중 스크랩한 글을 볼 수 있습니다.<br>
 <img src = "https://images.velog.io/images/ryool/post/3a87eef5-3aab-4034-af7d-cdea1e51fd52/image.png" width = 400 height = 800>
-
+<br>
 ## 저장한 문장
 
 네비게이션 드로어에서 저장한 문장을 누르면 <br>
